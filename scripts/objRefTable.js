@@ -69,6 +69,8 @@ self.C3_JsPropNameTable = [
 	{kova: 0},
 	{btnTekrar: 0},
 	{butonlarr: 0},
+	{Sprite: 0},
+	{Sprite2: 0},
 	{butonlar: 0},
 	{tıklama: 0}
 ];
@@ -101,5 +103,7 @@ self.InstanceType = {
 	kova: class extends self.ISpriteInstance {},
 	btnTekrar: class extends self.ISpriteInstance {},
 	butonlarr: class extends self.ISpriteInstance {},
+	Sprite: class extends self.ISpriteInstance {},
+	Sprite2: class extends self.ISpriteInstance {},
 	butonlar: class extends self.ISpriteInstance {}
 }
