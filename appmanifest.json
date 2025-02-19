@@ -1,0 +1,11 @@
+{
+	"name": "Bitki_Dongu",
+	"short_name": "Bitki_Dongu",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": [],
+	"screenshots": []
+}
