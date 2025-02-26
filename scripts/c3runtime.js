@@ -1354,9 +1354,9 @@ self.C3_ExpressionFuncs = [
 			return () => n0.ExpInstVar();
 		},
 		() => 1,
+		() => "muzik",
 		() => -5,
 		() => 0,
-		() => "muzik",
 		() => "ses",
 		() => "bilgi",
 		() => "background",
@@ -1374,10 +1374,8 @@ self.C3_ExpressionFuncs = [
 		() => 8,
 		() => 9,
 		() => 10,
-		() => 5,
 		() => 4,
-		() => 12,
-		() => 3
+		() => 12
 ];
 
 
